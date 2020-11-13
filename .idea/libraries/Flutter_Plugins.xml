@@ -2,7 +2,7 @@
   <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
     <CLASSES>
       <root url="file://$PROJECT_DIR$" />
-      <root url="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.16" />
+      <root url="file://$USER_HOME$/Library/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-1.0.7" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
